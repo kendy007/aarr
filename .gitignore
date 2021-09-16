@@ -1,18 +1,8 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+<p>Hello 大家好</p >
+<p>我是kendy </p >
+<p>很高兴你来到这里, 我是一名区块链博主，如果你也喜欢我的文字</p >
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<ul>
+  <li> < a href="https://mp.weixin.qq.com/s/Nd2RQKen8ZbBIBFcrlXrfg">这是我最近写的一篇文章|《Staking的自轻与StaFi的迷思》</ a> </li>
+  <li> < a href="https://mp.weixin.qq.com/s/Nd2RQKen8ZbBIBFcrlXrfg">如果你喜欢的话，请点一个关注哦</ a> </li>
+</ul>
